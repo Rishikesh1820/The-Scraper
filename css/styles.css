@@ -1,0 +1,131 @@
+
+
+#title{
+    background-color: rgb(11, 190, 104);
+    color: white;
+}
+#Head2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    color: aliceblue;
+    padding: 1% 15%; 
+ }
+.container-fluid{
+    padding: 3% 15%;
+ }
+
+/* Navigation bar */
+.navbar-brand{
+    font-family:"Rubik Vinyl";
+    font-size: 2.5rem;
+    font-weight:500;
+}
+.nav-link{
+    font-size: large;
+}
+/* download-button .. title-image*/
+.download-button{
+    margin: 5% 1% 5% 0%;
+}
+.title-image{
+    /* transform rotate property is use to rotate images */
+   transform: rotate(25deg);
+}
+/* features */
+#features-h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    color: rgb(35, 181, 81);
+    text-align: center;
+    padding-top: 5%;
+}
+#features-h2-2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: rgb(35, 181, 81);
+    text-align: center;
+    padding-top: 1%;
+}
+#features{
+    
+    padding: 7% 11% ;
+}
+.features-box{
+    
+    text-align: center;
+    padding: 5%;
+    
+}
+h3{
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+.features-tagline{
+    color: #8f8f8f;
+    
+}
+/* icons */
+.icons{
+    color: rgb(71, 216, 117);
+    margin-bottom: 5%;
+    padding: 80px;
+}
+.icons:hover{
+    color: green;
+}
+
+
+
+/* Testimonials  section */
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(71, 216, 117);
+    color: #fff;
+    
+}
+.testimonials-text{
+    font-family: "Montserrat";
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 500;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: rgb(71, 216, 117);
+    text-align: center;
+    padding-bottom: 4%; 
+}
+.press-image{
+    width: 15%;
+    margin: 20px 20px 20px 15px;
+    
+}
+/* green truck */
+
+#green{
+    color:white;
+    background-color:  rgb(71, 216, 117);;
+}
+.green-text{
+    padding:10% 0% 0% 6%;
+}
+.greenImageBox{
+    width: auto;
+    height: auto;
+    text-align: center;
+    padding: 0% 0% 0% 0%;
+    margin: 0% 0% 5% 10%;
+    /* max-width: 100%; */
+}
+.green-logo{
+    align-items: center;
+    margin: 190% 40% 0% 0%;
+    
+}
