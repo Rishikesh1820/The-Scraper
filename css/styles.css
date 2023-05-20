@@ -129,3 +129,17 @@ h3{
     margin: 190% 40% 0% 0%;
     
 }
+#Footer-Brand{
+    font-family:"Rubik Vinyl";
+    font-size: 2.0rem;
+    font-weight:500;
+    color: #fff;
+    margin-left: 10%;
+}
+#Footer-button1{
+    margin-left: 10%;
+}
+#footer{
+    margin-left: 10%;
+    background-color:  rgb(71, 216, 117);
+}
